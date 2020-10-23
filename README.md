@@ -1,7 +1,9 @@
 
 # license plate recognition using python
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D_G4SXqw2EU/0.jpg)](https://www.youtube.com/watch?v=D_G4SXqw2EU)
+## Video
+
+[![Video](https://img.youtube.com/vi/D_G4SXqw2EU/0.jpg)](https://www.youtube.com/watch?v=D_G4SXqw2EU)
 --------------------
 
 1. Install darkflow
