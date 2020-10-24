@@ -8,7 +8,7 @@
 
 1. Install darkflow
 
-    clone darkflow from [here](https://github.com/thtrieu/darkflow) 
+    clone darkflow from [here](https://github.com/thtrieu/darkflow) , you must have C++ build tools to be able to build the source, download it from [here](https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019)
 
 
         cd darkflow-master
