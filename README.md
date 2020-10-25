@@ -19,8 +19,9 @@
 
 2. Install tensorflow old version
 
-    you must have anaconda installed, pip only has tensorflow 2
-
+    you must have anaconda installed, pip only has tensorflow 2, also your python version in conda environment should be 3.6 or lower
+    
+        conda install python=3.6
         conda install -c conda-forge tensorflow
 
 3. Install opencv, opencv is deprecated, it doesn't have a wheelfile on pip so don't try to pip install it
